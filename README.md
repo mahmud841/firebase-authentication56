@@ -1,5 +1,5 @@
 # Getting Started with Create React App
- 10/06/2021 start Firebase 
+ * 10/06/2021 start Firebase 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
